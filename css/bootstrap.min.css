@@ -1,0 +1,11 @@
+.container-fluid .section-content .member-thumb 
+{
+    /*background-color: #999;*/
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    overflow: hidden;
+}
+.member-thumb img {
+    width: 100%;
+}
